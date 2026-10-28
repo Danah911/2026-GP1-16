@@ -122,6 +122,4 @@ REPLICA is developed for research and clinical decision-support purposes and is 
 
 **Project Supervisor:** Dr. Sharefah Alghamdi
 
-## Reference
 
-De Brouwer, E., Simm, J., Arany, A., & Moreau, Y. (2019). *GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series.* Advances in Neural Information Processing Systems (NeurIPS).
